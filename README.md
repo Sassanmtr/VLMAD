@@ -32,3 +32,13 @@ pip install -r requirements.txt
 3. Download the MVTec-AD dataset and rename it to mvtec and place it in the root folder of the repository
 
 ## Usage
+To run the method:
+```
+python run_vlm.py
+```
+
+To evaluate the results:
+
+```
+python evaluate.py
+```
