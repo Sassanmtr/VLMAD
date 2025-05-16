@@ -1,0 +1,65 @@
+{
+    "bottle": {
+
+        "normal": ["A flawless, normal, unblemished bottle"],
+        "anomaly": ["An anomalous, defective, damaged bottle"]
+    },
+    "cable": {
+        "normal": ["A flawless, normal, unblemished cable"],
+        "anomaly": ["An anomalous, defective, damaged cable"]
+
+    },
+    "capsule": {
+        "normal": ["A flawless, normal, unblemished capsule"],
+        "anomaly": ["An anomalous, defective, damaged capsule"]
+    },
+    "carpet": {
+        "normal": ["A flawless, normal, unblemished carpet"],
+        "anomaly": ["An anomalous, defective, damaged carpet"]
+    },
+    "grid": {
+        "normal": ["A flawless, normal, unblemished grid"],
+        "anomaly": ["An anomalous, defective, damaged grid"]
+    },
+    "hazelnut": {
+        "normal": ["A flawless, normal, unblemished hazelnut"],
+        "anomaly": ["An anomalous, defective, damaged hazelnut"]
+    },
+    "leather":{
+        "normal": ["A flawless, normal, unblemished leather"],
+        "anomaly": ["An anomalous, defective, damaged leather"]
+    },
+    "metal_nut": {
+        "normal": ["A flawless, normal, unblemished metal nut"],
+        "anomaly": ["An anomalous, defective, damaged metal nut"]     
+    },
+    "pill": {
+        "normal": ["A flawless, normal, unblemished pill"],
+        "anomaly": ["An anomalous, defective, damaged pill"]
+    },
+    "screw": {
+        "normal": ["A flawless, normal, unblemished screw"],
+        "anomaly": ["An anomalous, defective, damaged screw"]
+    },
+    "tile": {
+        "normal": ["A flawless, normal, unblemished tile"],
+        "anomaly": ["An anomalous, defective, damaged tile"]
+    },
+    "toothbrush": {
+        "normal": ["A flawless, normal, unblemished toothbrush"],
+        "anomaly": ["An anomalous, defective, damaged toothbrush"]
+    },
+    "transistor": {
+        "normal": ["A flawless, normal, unblemished transistor"],
+        "anomaly": ["An anomalous, defective, damaged transistor"]
+    },
+    "wood": {
+        "normal": ["A flawless, normal, unblemished wood"],
+        "anomaly": ["An anomalous, defective, damaged wood"]
+    },
+    "zipper": {
+        "normal": ["A flawless, normal, unblemished zipper"],
+        "anomaly": ["An anomalous, defective, damaged zipper"]
+    }
+
+}
